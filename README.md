@@ -39,7 +39,7 @@ Build and Automate loading data from S3 to Snowflake with email notification usi
 
 ![Screen Shot 2023-12-30 at 9 26 33 PM](https://github.com/devaa07/ETL-Airflow-pipeline-S3_Snowflake_mail/assets/126756574/d6fa5004-ef17-49c1-a99f-0a0a15a1aec8)
 
-# Step 9: Update the email related python code inside the DAG file and trigger the DAG
+# Step 9: Update the email related python code inside the DAG file and trigger the DAG. Verify the email and that's it !!
 
 ![Screen Shot 2023-12-30 at 9 27 53 PM](https://github.com/devaa07/ETL-Airflow-pipeline-S3_Snowflake_mail/assets/126756574/60f0dee9-c0d7-4700-8ef9-19e09523767f)
 
